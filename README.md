@@ -1,7 +1,7 @@
 # Shashank Ushanagalla
 
 📧 Email: shashanknani1312@gmail.com
-🔗 LinkedIn: [linkedin.com/in/shashank-ushanagalla](https://www.linkedin.com/in/ushanagalla-shashank-4452a4299/)
+🔗 LinkedIn: [linkedin.com/in/shashank-ushanagalla][(https://www.linkedin.com/in/ushanagalla-shashank-4452a4299/](https://www.linkedin.com/in/ushanagalla-shashank-a1a95129b/))
 📞 Phone: +91 85239060395
 🌍 Location: Hyderabad, India
 🌐 Portfolio: [portfolio-virid-beta-93.vercel.app](https://portfolio-virid-beta-93.vercel.app)
